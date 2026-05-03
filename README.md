@@ -5,7 +5,7 @@ A Python implementation of Dijkstra's algorithm for finding the shortest paths b
 ## Graph Visualization
 The node map and distance weights calculated by the algorithm:
 <br>
-<img src="images/graph_rute.png" width="70%" alt="Shortest Path Graph">
+<img src="image/graph_rute.png" width="70%" alt="Shortest Path Graph">
 
 ## Tech Stack
 * Python 3
